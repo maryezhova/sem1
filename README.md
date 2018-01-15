@@ -2,6 +2,7 @@
 ## второй заголовок
 * цифровая грамотность
 * компьютер
+* > Success consists of going from failure to failure without loss of enthusiasm.©Winston Churchill
 ### Информация о себе
 * *Меня зовут Маша Ежова*
 * *Мне 18 лет*
