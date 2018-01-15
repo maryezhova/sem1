@@ -7,5 +7,5 @@
 * Мне 18 лет
 * Я учусь в Высшей школе экономики
 ## Социальные сети
-* Мой VK (https://vk.com/maryezhova "Титул")
+* Мой VK (https://vk.com/maryezhova
 * Мой Instagram https://www.instagram.com/maryezhova/
