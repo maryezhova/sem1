@@ -6,8 +6,8 @@
 * *Меня зовут Маша*
 * *Мне 18 лет*
 * *Я учусь в **Высшей школе экономики***
-![](https://wampi.ru/image/diXxIE)
+![](https://pp.vk.me/c631520/v631520286/2e11c/i18UWm1IlmI.jpg)
 -------------------------------
 ### Социальные сети
-* [Мой VK](http://vk.com/maryezhova "Мария Ежова")
-* [Мой Instagram](https://www.instagram.com/maryezhova/ "maryezhova")
+1.[Мой VK](http://vk.com/maryezhova "Мария Ежова")
+2.[Мой Instagram](https://www.instagram.com/maryezhova/ "maryezhova")
